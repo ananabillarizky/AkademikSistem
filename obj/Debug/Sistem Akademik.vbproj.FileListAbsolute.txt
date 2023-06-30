@@ -1,0 +1,19 @@
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\bin\Debug\Sistem Akademik.exe.config
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\bin\Debug\Sistem Akademik.exe
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\bin\Debug\Sistem Akademik.pdb
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\bin\Debug\Sistem Akademik.xml
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.vbprojAssemblyReference.cache
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Dasbor_Admin.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Data_Dosen.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Data_Mahasiswa.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Data_Matkul.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Login.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Resources.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.vbproj.GenerateResource.cache
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.vbproj.CoreCompileInputs.cache
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.exe
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.xml
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem Akademik.pdb
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Dasbor_Mahasiswa.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Data_Nilai.resources
+D:\kuliah\Semester 6\Pemrograman basis data jaringan\Sistem Akademik\obj\Debug\Sistem_Akademik.Search_Mahasiswa.resources
